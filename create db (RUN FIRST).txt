@@ -1,0 +1,8 @@
+use xPressMeDB
+db.createCollection("sound_file")
+db.createCollection("image_file")
+db.createCollection("communication_board")
+db.createCollection("button")
+db.createCollection("user")
+db.createCollection("case")
+
